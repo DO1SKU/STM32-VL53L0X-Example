@@ -1,0 +1,4 @@
+10.01.2020
+
+STM32 spricht über I2C1 mit VL53L0X Sensor!
+Funktoniert!
